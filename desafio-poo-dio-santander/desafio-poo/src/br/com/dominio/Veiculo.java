@@ -28,12 +28,7 @@ public abstract class Veiculo {
     public void setModelo(String modelo) {
         this.modelo = modelo;
     }
-    public Motorista getMotorista() {
-        return motorista;
-    }
-    public void setMotorista(Motorista motorista) {
-        this.motorista = motorista;
-    }
+
     
     
 
